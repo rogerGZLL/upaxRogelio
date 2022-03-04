@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Upax Roger</string>
+    <string name="google_maps_apikey">AIzaSyBFjK8UInAeNGfhx8attCH8UNY6xzNjuwU</string>
+    <string name="created_by">Created By Rogelio González</string>
+    <string name="menu_movies">Movies</string>
+    <string name="menu_location">Location</string>
+    <string name="menu_storage">Storage</string>
+    <string name="storage_description">Presiona el botón "Seleccionar imágenes" para subir una o varias imágenes al Storage de Firebase, las imágenes pueden ser de tipo JPG o PNG</string>
+    <string name="seleccionar_imagenes">Seleccionar imágenes</string>
+    <string name="subiendo_imagenes">Subiendo imágenes...</string>
+    <string name="exito">¡Éxito!</string>
+    <string name="exito_images_upload">Las imágenes fueron subidas de forma correcta a Firebase</string>
+    <string name="error">Error</string>
+    <string name="error_images_upload">Ocurrió un error inesperado al intentar subir las imágenes a Firebase</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="subida_en_proceso">Espera a que terminen de subirse las imágenes</string>
+    <string name="error_red">Error de red</string>
+    <string name="intentar_de_nuevo">Intentar de nuevo</string>
+    <string name="final_lista">No hay más películas para mostrar</string>
+    <string name="error_red_descripción">No es posible cargar más resultados debido a un error de red</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

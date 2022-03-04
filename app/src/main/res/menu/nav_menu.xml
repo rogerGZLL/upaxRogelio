@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/ic_movies"
+    android:icon="@drawable/ic_movie_filter"
+    android:title="@string/menu_movies"/>
+
+    <item
+        android:id="@+id/ic_location"
+        android:icon="@drawable/ic_location_on"
+        android:title="@string/menu_location"/>
+
+    <item
+        android:id="@+id/ic_storage"
+        android:icon="@drawable/ic_image"
+        android:title="@string/menu_storage"/>
+</menu>

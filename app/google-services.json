@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227476828545",
+    "project_id": "upax-prueba",
+    "storage_bucket": "upax-prueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227476828545:android:81f6519a3176e47847f880",
+        "android_client_info": {
+          "package_name": "mx.dev.themoviedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227476828545-c4rlklsg3h2gk5e873ubo8o52lm8kfi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.dev.themoviedb",
+            "certificate_hash": "38351329ca1b9d5688339602f028e4eec5318f84"
+          }
+        },
+        {
+          "client_id": "227476828545-ec4b1conuf2j3oe9e19q9gsf16huho28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeh3cSt-nnvgV-em2CHpsNr-cHZhfQZYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227476828545-ec4b1conuf2j3oe9e19q9gsf16huho28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
