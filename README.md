@@ -18,6 +18,7 @@ Exámen práctico de evaluación Rogelio González López
 - Compile Sdk: 31
 - Min Sdk: 21
 - Version code: 1
+- APK generado: https://www.mediafire.com/file/z4m75477gnmhiwr/UpaxRogelio.apk/file
 
 Pendiente
 - Envio de ubicación en segundo plano a Firebase
